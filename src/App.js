@@ -16,8 +16,6 @@ function App() {
           rel="noopener noreferrer"
         >
           Learn React
-          <br />
-          This is a new line I added.
         </a>
       </header>
     </div>
